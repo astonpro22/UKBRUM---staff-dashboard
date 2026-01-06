@@ -128,7 +128,7 @@
 <h2>Moderation</h2>
 
 <!-- Editable Name and Rank -->
-<h3>Your Name and Rank</h3>
+<h3>Set out like this: Hello, i am Flop a Trial moderator Here at UKBRUM. (If i am late say "Late" or "Void")</h3>
 <input type="text" id="staffNameRank" placeholder="Enter your name and rank...">
 
 <!-- GENERAL MESSAGES -->
